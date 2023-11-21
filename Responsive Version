@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promotional Email</title>
+</head>
+<body style="margin: 0; padding: 0; Arial, sans-serif; background-color: #f4f4f4;">
+    <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; margin: 0 auto; background-color: #000;">
+        <tr>
+            <td style="padding: 20px; text-align: center;">
+                <a href="https://jungleorlando.com/"><img src="images/jungle logo.png" alt="The Jungle MMA and Fitness" width="100%" height="200" style="display: block; margin: 0 auto 20px; max-width: 100%; height: auto;"></a>
+                <p style="font-size: 40px; font-weight: bold; color: red; line-height: 1.6;">Christmas in July is back!🎅🏖️</p>
+                <p style="font-size: 16px; color: #fff; line-height: 1.6;">💥We thank you for coming by or reaching out lately. Are you looking to save 25% on a Jungle Membership?</p>
+                <p style="font-size: 16px; color: #fff; line-height: 1.6;">💵 FREE Equipment on some offers as well!</p>
+                <p style="font-size: 16px; color: #fff; line-height: 1.6;">💵Our yearly Special has begun and we are excited to off this to new AND current members alike.</p>
+            </td>
+        </tr>
+    </table>
+    <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; margin: 0 auto; background-color: #ffffff;">
+        <tr>
+            <td style="padding: 20px; text-align: center;">
+                <a href="https://jungleorlando.com/"><img src="images/july.jpg" alt="Christmas in July" width="400" height="200" style="display: block; margin: 0 auto 20px; max-width: 100%; height: auto;"></a>
+                <p style="font-size: 16px; font-weight:bold; #000000; line-height: 1.6;">Take that first step and contact us today to get started on your trial or to start up!</p>
+                <p style="font-size: 16px; font-weight:bold; color: #000000; line-height: 1.6;">This is a LIMITED special and space is limited!</p>
+                <p style="font-size: 16px; font-weight:bold; color: #000000; line-height: 1.6;">Would you like more info?</p>
+                <p style="font-size: 16px; font-weight:bold; color: #000000; line-height: 1.6;">E-mail us back or text us at (407)601-5425.</p>
+            </td>
+        </tr>
+    </table>    
+    <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; margin: 0 auto; background-color: #ffffff;">
+        <tr>
+            <td style="padding: 20px; text-align: center;">
+                <img src="images/footer swoosh.png" alt="footer Image" width="100%" style="display: block; margin: 0 auto 20px; max-width: 100%; height: auto;">
+            </td>
+        </tr>
+    </table>
+    <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; margin: 0 auto; background-color: #fff;">
+        <tr>
+            <td style="padding: 20px; text-align: center;">
+                <p style="font-size: 12px; color: #888888; line-height: 1.5;">The Jungle MMA & Fitness | 1419 E. Colonial Dr., Orlando, FL 32803</p>
+                <a href="https://jungleorlando.com/"><p style="font-size: 12px; color: #888888; line-height: .5;">Unsubscribe rubbyf123@gmail.com</p></a>
+                <a href="https://www.constantcontact.com/legal/customer-contact-data-notice"><p style="font-size: 12px; color: #888888; line-height: .5;">Constant Contact Data Notice</p></a>
+                <a href="https://www.constantcontact.com/?cc=nge&rmc=VF19_3GE"><img src="images/constant contact img.png" alt="Constant Contact" width="150px"></a>
+                <p style="font-size: 8px; font-weight: bold; color: #888888; line-height: -1.6;">Try email marketing for free today!</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
